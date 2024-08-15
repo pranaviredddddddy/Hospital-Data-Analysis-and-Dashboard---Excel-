@@ -1,6 +1,6 @@
 # Hospital-Data-Analysis-and-Dashboard---Excel-
 
-**ORTHOPEDIC DASHBOARD **
+**ORTHOPEDIC DASHBOARD**
 
 Project Summary: Orthopedics Department Analytics Dashboard (2023)
 
