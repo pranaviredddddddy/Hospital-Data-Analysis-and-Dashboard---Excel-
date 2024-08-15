@@ -2,6 +2,8 @@
 
 **ORTHOPEDIC DASHBOARD**
 
+Link to the Dashboard -  https://1drv.ms/x/s!AgOS_GzXQFbB1WJRtTLFHDF6bUPq?e=rq6Amb
+
 Project Summary: Orthopedics Department Analytics Dashboard (2023)
 
 **Overview:**
